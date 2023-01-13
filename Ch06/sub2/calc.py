@@ -10,4 +10,5 @@ def multi(x, y):
 def div(x, y):
     return x / y
 
-print('calc 실행...')
+if __name__ == '__main__':
+    print('calc 실행...')
